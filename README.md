@@ -1,3 +1,4 @@
+![hrhf-1ba4e6e5edb9a6f011707577cbe4514e](https://user-images.githubusercontent.com/58392246/177234420-20946754-4fb8-4406-ad31-72f098e8c3d6.jpg)
 The long story of my life and career journey until I was able to become a programmer in several big technology companies in Indonesia.
 
 I broke this story into several parts because it is quite long to be made into one article. Read the whole story at the following link:
